@@ -36,7 +36,7 @@
   "dependencies": {
     "framer-motion": "11.11.10",
     "gray-matter": "4.0.3",
-    "next": "15.0.2",
+    "next": "15.1.2",
     "next-mdx-remote": "5.0.0",
     "react": "19.0.0-rc-69d4b800-20241021",
     "react-dom": "19.0.0-rc-69d4b800-20241021",
